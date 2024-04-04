@@ -1,0 +1,44 @@
+.redheading{
+     color: red;
+}
+.greenheading{
+    color: rgb(31, 236, 4);;
+}
+.linethrough{
+    font-weight: 700;
+    text-decoration: line-through;
+}
+.highlighted{
+    background-color: yellow;
+}
+.margin{
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.italic{
+    font-style: italic;
+}
+.underline{
+    text-decoration: underline;
+}
+.bold{
+    font-weight: bold;
+}
+.brown{
+    color: brown;
+}
+.textseperation{
+    letter-spacing: 5px;
+}
+.bolder{
+    font-weight: bolder;
+}
+.lightertextwidth{
+    font-weight: lighter;
+}
+.smallfontsize{
+    font-size: xx-small;
+}
+a{
+    text-decoration: none;
+}
